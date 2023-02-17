@@ -26,7 +26,7 @@ functioning of your server.
 
 These cfggameplayfiles will give you unlimited sprint & stamina (sort of), build anywhere & map access (you can see you position on map - on PC by pressing M, on console by owning tourist map).
 
-To install these files simply copy the relevant files to your mission folder and remove the map prefix, then retsart your server.
+To install these files simply copy the relevant files to your mission folder and remove the map prefix, then restart your server.
 
 Code Snippets for customisation:
 
